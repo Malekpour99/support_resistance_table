@@ -1,4 +1,4 @@
-# chart
+# table
 
 ## Project setup
 ```
